@@ -1,5 +1,5 @@
-Judy's Portfolio
-Welcome to Judy's Portfolio! This project is a custom portfolio developed for Judy, showcasing her skills and work in a professional and visually appealing manner. The portfolio is built using HTML, CSS, and JavaScript, providing a seamless experience across different devices and screen sizes.
+Portfolio Website
+Welcome to Portfolio Website that I designed for my Client! This project is a custom portfolio developed for Judy, showcasing her skills and work in a professional and visually appealing manner. The portfolio is built using HTML, CSS, and JavaScript, providing a seamless experience across different devices and screen sizes.
 
 Features
 Elegant Design: The portfolio features a modern and clean aesthetic to highlight Judy's work and professional experience.
@@ -12,8 +12,8 @@ JavaScript: Added interactivity and dynamic features to the site.
 Getting Started
 To get started with the project, follow these instructions:
 
-Clone the repository: Clone this repository to your local machine using the following command:git clone https://github.com/yourusername/yourrepository.git
-Open the project: Navigate to the project directory:cd yourrepository
+Clone the repository: Clone this repository to your local machine using the following command: git clone https://github.com/yeswadams/judy_portfolio.git
+Open the project: Navigate to the project directory:cd your repository
 Open the HTML file: Open the main HTML file (index.html) in your preferred browser to view the portfolio.
 Mobile Optimization
 The portfolio is designed with mobile optimization in mind:
